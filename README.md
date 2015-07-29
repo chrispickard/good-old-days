@@ -1,6 +1,6 @@
 # good-old-days
 
-A clojure library designed to make old lisp heads feel at home by getting rid of those pesky `first` and `rest` and replacing them with `car` and `cdr` instead.
+A clojure library designed to make old lisp heads feel at home by getting rid of the pesky `first` and `rest` and replacing them with `car` and `cdr` instead.
 
 ## Usage
 
